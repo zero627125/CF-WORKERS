@@ -6,6 +6,10 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
 	'icook.tw:2053#优选域名',
+	'skk.moe:2053#优选域名',
+	'www.visa.com.sg:2053#优选域名',
+	'www.who.int:2053#优选域名',
+	'www.shopify.com:2096#优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
 	'icook.hk:8443#香港',
 	'cfip.xxxxxxxx.tk#官方优选-otc提供',
